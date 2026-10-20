@@ -1,4 +1,4 @@
 # gitlearning
 
-This is a git demo\n
+This is a git demo
 Author: Isaac Montanes
